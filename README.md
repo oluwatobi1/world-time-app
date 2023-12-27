@@ -1,4 +1,4 @@
-# world_time_app
+# World Time App
 
 A flutter application that displays the current time for all countries in the World.
 
