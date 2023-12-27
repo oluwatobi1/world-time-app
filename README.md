@@ -1,15 +1,14 @@
 # world_time_app
 
-A new Flutter project.
+A flutter application that displays the current time for all countries in the World.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A few resources used in this application:
 
-A few resources to get you started if this is your first Flutter project:
+- [All countries API: Provides a list of countries with necessary data](https://restcountries.com)
+- [Times API: Gets the current time based on specified criteria ](https://timeapi.io)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
